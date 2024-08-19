@@ -39,11 +39,10 @@ For any questions or feedback, please reach out to siddabdul7@gmail.com.
 ## Dashboard Screenshot
 
 ### Here is a screenshot of the dashboard:
-![Dashboard Screenshot](./src/data/image-1.png)
-<br/>
-![Dashboard Screenshot](./src/data/image-2.png)
-<br/>
-![Dashboard Screenshot](./src/data/image-3.png)
-<br/>
-![Dashboard Screenshot](./src/data/image-4.png)
+<p align="center">
+  <img src="./src/data/image-1.png" alt="Image 1" width="300" style="margin-right: 20px;">
+  <img src="./src/data/image-2.png" alt="Image 2" width="300" style="margin-right: 20px;">
+  <img src="./src/data/image-3.png" alt="Image 3" width="300" style="margin-right: 20px;">
+  <img src="./src/data/image-4.png" alt="Image 4" width="300">
+</p>
 
