@@ -40,7 +40,10 @@ For any questions or feedback, please reach out to siddabdul7@gmail.com.
 
 ### Here is a screenshot of the dashboard:
 ![Dashboard Screenshot](./src/data/image-1.png)
+<br/>
 ![Dashboard Screenshot](./src/data/image-2.png)
+<br/>
 ![Dashboard Screenshot](./src/data/image-3.png)
+<br/>
 ![Dashboard Screenshot](./src/data/image-4.png)
 
