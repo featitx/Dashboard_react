@@ -29,8 +29,11 @@ To set up the project on your local machine, follow these steps:
 
 ### Acknowledgements
 **React**: For building the user interface.
+<br>
 **Vite**: For fast and modern build tooling.
+<br>
 **Syncfusion**: For providing rich UI components.
+<br>
 **Context API**: For state management within the application.
 
 ### Contact
