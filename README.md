@@ -14,6 +14,18 @@ Welcome to the **React Multifunctional Dashboard**! This project is a dynamic an
 - **Context API**: Manage state across the application efficiently.
 - **Responsive Design**: Ensures usability and a consistent experience on various devices.
 
+## Dashboard Screenshot
+
+### Here is a screenshot of the dashboard:
+  <img src="./src/data/image-1.png" alt="Image 1" width="900" >
+  <br>
+  <img src="./src/data/image-2.png" alt="Image 2" width="900" >
+  <br>
+  <img src="./src/data/image-3.png" alt="Image 3" width="900" >
+  <br>
+  <img src="./src/data/image-4.png" alt="Image 4" width="900">
+
+  
 ## Installation
 
 To set up the project on your local machine, follow these steps:
@@ -39,15 +51,5 @@ To set up the project on your local machine, follow these steps:
 ### Contact
 For any questions or feedback, please reach out to siddabdul7@gmail.com.
 
-## Dashboard Screenshot
-
-### Here is a screenshot of the dashboard:
-  <img src="./src/data/image-1.png" alt="Image 1" width="900" >
-  <br>
-  <img src="./src/data/image-2.png" alt="Image 2" width="900" >
-  <br>
-  <img src="./src/data/image-3.png" alt="Image 3" width="900" >
-  <br>
-  <img src="./src/data/image-4.png" alt="Image 4" width="900">
 
 
